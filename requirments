@@ -1,8 +1,0 @@
-streamlit
-openai>=1.30.0
-moviepy
-requests
-pillow
-imageio
-imageio-ffmpeg
-numpy
